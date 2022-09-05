@@ -57,7 +57,7 @@ slider.addEventListener("mousemove", function () {
       page.innerHTML = "800K page views";
       dollar.innerHTML = "250$";
     } else if (x == 10) {
-      page.innerHTML = "1000K page views";
+      page.innerHTML = "1M page views";
       dollar.innerHTML = "350$";
     }
     // if button is on yearly billing
@@ -93,7 +93,7 @@ slider.addEventListener("mousemove", function () {
       page.innerHTML = "800K page views";
       dollar.innerHTML = "900$";
     } else if (x == 10) {
-      page.innerHTML = "1000K page views";
+      page.innerHTML = "1M page views";
       dollar.innerHTML = "1000$";
     }
   }
